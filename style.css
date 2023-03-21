@@ -76,6 +76,7 @@ button:active {
 
 .twitter-button:hover {
   color: #38a1f3;
+  text-shadow: 5px 5px 1px lightskyblue;
 }
 
 .fa-twitter {
